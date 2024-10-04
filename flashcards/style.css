@@ -1,0 +1,13 @@
+body {
+    background-color:brown;
+}
+footer{
+    background-color: black;
+    color:aliceblue;
+    bottom: 0;
+}
+footer{
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
