@@ -11,3 +11,14 @@ footer{
     color: aliceblue;
     position: fixed;
     bottom: 0;
+ footer {
+    background-color: brown;
+    color: antiquewhite;
+    position: fixed;
+    bottom: 0;
+    width: 100;
+ }
+ footer p{
+    text-align: center;
+    font-size: 0.6rem;
+ }
