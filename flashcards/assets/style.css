@@ -3,8 +3,8 @@ body {
 }
 
  footer {
-    background-color: brown;
-    color: greenyellow;
+    background-color: rgb(78, 9, 9);
+    color: rgb(47, 68, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
