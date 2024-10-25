@@ -1,11 +1,11 @@
 body {
-   background-color: red;
+   background-color: rgb(235, 223, 223);
    color: black;
    }
 
 footer{ 
    background-color:  black;
-   color: rgb(177, 28, 28);  
+   color: rgb(238, 229, 229);  
    position: fixed;
    bottom: 0;
    width: 100%;
