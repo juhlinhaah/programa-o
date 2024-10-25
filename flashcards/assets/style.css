@@ -22,4 +22,8 @@ footer p {
 
 .cartao{
    margin:1rem 1remm;
-<div class=
+.cartao {
+   margin: 1rem 1 rem;
+   background-color: blue;
+   height:20rem;
+   flex-basis: calc(33% - 6rem);
