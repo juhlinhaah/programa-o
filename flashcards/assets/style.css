@@ -22,7 +22,7 @@ footer p {
 
    .cartao{
        margin: 1rem 1rem;
-       background-color: rgb(255, 202, 235);
+       background-color: rgb(164, 224, 172);
        height: 20rem;
        flex-grow: 1;
        flex-basis: calc(33% - 6rem);
@@ -30,6 +30,6 @@ footer p {
 
    .cartao__conteudo {
        text-align: center;
-       background-color: rgb(202, 194, 202);
+       background-color: rgb(170, 132, 170);
        height: 100%;
    }
