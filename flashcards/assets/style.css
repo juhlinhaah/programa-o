@@ -33,3 +33,12 @@ footer p {
        background-color: rgb(170, 132, 170);
        height: 100%;
    }
+   .cartao__conteudo { 
+      text-align: center;
+   }
+   .cartao__conteudo{
+
+    text-align: center;
+    background-color:antiquewhite ;
+    }
+    
