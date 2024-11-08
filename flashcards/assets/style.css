@@ -1,5 +1,6 @@
 body {
-   background: url('bg-desktop.webp');
+   background-color: lightgreen;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    }
 
 footer{ 
@@ -51,3 +52,4 @@ footer p {
       font-size: 1vw;
     }
     
+      
