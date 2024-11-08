@@ -1,5 +1,5 @@
 body {
-   background-color: rgba(250, 246, 192, 0.638);
+   background: url('bg-desktop.webp');
    }
 
 footer{ 
@@ -50,6 +50,4 @@ footer p {
       border-radius: 0.6rem;
       font-size: 1vw;
     }
-    body {
-      background: url(img/bg-desktop.webp);
-      font-family: Bai Jamjuree;
+    
