@@ -50,5 +50,6 @@ footer p {
       border-radius: 0.6rem;
       font-size: 1vw;
     }
-
-
+    body {
+      background: url(img/bg-desktop.webp);
+      font-family: Bai Jamjuree;
