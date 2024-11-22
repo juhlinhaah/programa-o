@@ -4,7 +4,7 @@ body {
 
    footer {
        background-color: rgb(175, 149, 236);
-       color: white;
+       color: qargb(195, 141, 188);
        position: fixed;
        bottom: 0;
        width: 100%;
