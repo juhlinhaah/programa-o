@@ -52,6 +52,10 @@ footer p {
       font-size: 1vw;
     }
     .cartao__conteudo {
-      background-color: violet;
+      text-align center;
+      height: 100%;
+      background-color: brown;var(--card-front-color);
+       .cartao__conteudo_pergunta p{ color:var(--text-color);
+         font-weight: 500;
     
       
